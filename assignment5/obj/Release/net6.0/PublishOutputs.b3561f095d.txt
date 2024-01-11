@@ -1,0 +1,5 @@
+F:\phase3\daily examples\day5\assignment5\assignment5\bin\Release\net6.0\publish\assignment5.exe
+F:\phase3\daily examples\day5\assignment5\assignment5\bin\Release\net6.0\publish\assignment5.dll
+F:\phase3\daily examples\day5\assignment5\assignment5\bin\Release\net6.0\publish\assignment5.deps.json
+F:\phase3\daily examples\day5\assignment5\assignment5\bin\Release\net6.0\publish\assignment5.runtimeconfig.json
+F:\phase3\daily examples\day5\assignment5\assignment5\bin\Release\net6.0\publish\assignment5.pdb
